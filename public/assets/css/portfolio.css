@@ -36,7 +36,8 @@
 
 .grid figure {
 	margin: 20px;
-	display: inline-block;
+	/* display: inline-block; */
+	 display: inline-table; 
 	cursor: pointer;
 	-webkit-touch-callout: none;
 	-webkit-user-select: none;
