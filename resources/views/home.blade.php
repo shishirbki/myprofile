@@ -153,7 +153,7 @@
 						</div>
 						</figure>
 						<figure>
-						<div style="text-align:left"><b>Project : -</b> <a href="http://motorjunkeez.com " target="_blank">https://www.prshots.com </a> HTML, CSS, JS, JQuery, AJAX, CODEIGNITER)
+						<div style="text-align:left"><b>Project : -</b> <a href="https://www.prshots.com" target="_blank">https://www.prshots.com </a> HTML, CSS, JS, JQuery, AJAX, CODEIGNITER)
 							<br>
 							<b>Project Overview:</b>PRShots is the leading royalty-free image library dedicated to serving the press.
 							<br><b>Activities Performed: </b>
