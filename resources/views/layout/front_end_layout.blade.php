@@ -13,17 +13,17 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
 <!-- css files secure_asset for https path(for heroku app)-->
 
-<link href="{{asset('assets/css/bootstrap.min.css')}}" rel="stylesheet" type="text/css" media="all">
-<link href="{{asset('assets/css/cobox.css')}}" rel="stylesheet" type="text/css">
-<link href="{{asset('assets/css/portfolio.css')}}" rel="stylesheet" type="text/css" media="all">
-<link href="{{asset('assets/css/style.css')}}" rel="stylesheet" type="text/css" media="all">
+<link href="{{secure_asset('assets/css/bootstrap.min.css')}}" rel="stylesheet" type="text/css" media="all">
+<link href="{{secure_asset('assets/css/cobox.css')}}" rel="stylesheet" type="text/css">
+<link href="{{secure_asset('assets/css/portfolio.css')}}" rel="stylesheet" type="text/css" media="all">
+<link href="{{secure_asset('assets/css/style.css')}}" rel="stylesheet" type="text/css" media="all">
 <!-- /css files -->
 <!-- font links -->
 <link href='//fonts.googleapis.com/css?family=Quicksand:400,700,300' rel='stylesheet' type='text/css'>
 <link href='//fonts.googleapis.com/css?family=Cinzel:400,700,900' rel='stylesheet' type='text/css'>
 <!-- /font links -->	
 <!-- js files -->
-<script src="{{asset('assets/js/modernizr.custom.js')}}"></script>
+<script src="{{secure_asset('assets/js/modernizr.custom.js')}}"></script>
 <!-- /js files -->
 </head>
 <body id="myPage" data-spy="scroll" data-target=".navbar" data-offset="60">
