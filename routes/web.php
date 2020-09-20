@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\HomesController;
+use App\Http\Controllers\BlogsController;
 
 /*
 |--------------------------------------------------------------------------
@@ -22,3 +23,5 @@ use App\Http\Controllers\HomesController;
 }); */
 
 Route::get('/',[HomesController::class,'index']);
+
+Route::get('/blog',[BlogsController::class,'index']);
