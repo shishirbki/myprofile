@@ -1,8 +1,3 @@
-<!--Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
--->
 <!DOCTYPE HTML>
 <html lang="en">
 <head>
@@ -12,8 +7,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <meta name="keywords" content="My Profile Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
 Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
 <!-- css files secure_asset for https path(for heroku app)-->
-
-<link href="{{asset('assets/css/bootstrap.min.css')}}" rel="stylesheet" type="text/css" media="all">
+<link href="{{asset('assets/css/blog_css/bootstrap.min.css')}}" rel="stylesheet" type="text/css" media="all">
 <link href="{{asset('assets/css/cobox.css')}}" rel="stylesheet" type="text/css">
 <link href="{{asset('assets/css/portfolio.css')}}" rel="stylesheet" type="text/css" media="all">
 <link href="{{asset('assets/css/style.css')}}" rel="stylesheet" type="text/css" media="all">
